@@ -17,9 +17,8 @@ Output: true
 
 Checkout and Install
 ```
-git clone https://
+git clone https://github.com/simonmittag/palindrome.git && cd palindrome
 ```
-
 
 Run main program
 ```
